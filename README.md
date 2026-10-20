@@ -125,4 +125,4 @@ Open `http://127.0.0.1:8000`, press **Start conversation**, allow the microphone
 
 ## Author
 
-**Shahram Shafiq** - [GitHub](https://github.com/shahramshafiq) | [LinkedIn](https://www.linkedin.com/in/shahramshafiq/)
+**Rana Taha** - [GitHub](https://github.com/ranataha011)
